@@ -1,4 +1,5 @@
 .venv/
 results/
 bert_topic_model/
+__pycache__/
 class_names.pkl
