@@ -1,0 +1,4 @@
+.venv/
+results/
+bert_topic_model/
+class_names.pkl
